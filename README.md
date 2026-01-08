@@ -19,7 +19,7 @@ The infrastructure includes the following components:
 * **Route 53:** Managed DNS service for custom domain mapping.
 * **ACM:** AWS Certificate Manager for SSL/TLS certificates.
 
-<img width="665" height="491" alt="image" src="https://github.com/user-attachments/assets/aa9f8b37-c921-4012-938a-eadeb2157657" />
+![Architect diagram](diagram.PNG)
 
 
 **Repository Structure**
